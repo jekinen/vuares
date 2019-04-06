@@ -224,3 +224,9 @@ Frontend test deliverables:
 ![](https://github.com/serputko/performance-testing-framework/blob/master/docs/img/jenkins_frontendjob_sitespeed_html_report.png)
 - **webpagetest HTML report**
 ![](https://github.com/serputko/performance-testing-framework/blob/master/docs/img/jenkins_frontendjob_webpagetest_html_report.png)
+
+
+
+
+checkmeout 
+http://www.testautomationguru.com/jmeter-distributed-load-testing-using-docker/
